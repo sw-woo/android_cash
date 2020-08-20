@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19204094764",
+    "firebase_url": "https://animal-cure.firebaseio.com",
+    "project_id": "animal-cure",
+    "storage_bucket": "animal-cure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19204094764:android:73368996f1f2f302304a89",
+        "android_client_info": {
+          "package_name": "com.sungwoo.animalcure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19204094764-0pr89hnlhfbm0sb9q6qrt7j70jgj31mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sungwoo.animalcure",
+            "certificate_hash": "021c3b04f428de09a20c9cf4664429b52d24eb54"
+          }
+        },
+        {
+          "client_id": "19204094764-ghnh8um4rkbjohl0vu1lco85nt6p83rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDP8rzMlolOqrJ4E2xIluXhKlTiv0EJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19204094764-ghnh8um4rkbjohl0vu1lco85nt6p83rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
